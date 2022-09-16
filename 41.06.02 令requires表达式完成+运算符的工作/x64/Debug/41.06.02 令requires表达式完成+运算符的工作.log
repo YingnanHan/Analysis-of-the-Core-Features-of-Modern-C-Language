@@ -1,0 +1,8 @@
+﻿  源.cpp
+C:\Users\20613\Desktop\41.06.02 令requires表达式完成+运算符的工作\源.cpp(25,2): error C7602: “X”: 未满足关联约束
+C:\Users\20613\Desktop\41.06.02 令requires表达式完成+运算符的工作\源.cpp(19): message : 参见“X”的声明
+C:\Users\20613\Desktop\41.06.02 令requires表达式完成+运算符的工作\源.cpp(25): error C2641: 无法推导“X”的模板参数
+C:\Users\20613\Desktop\41.06.02 令requires表达式完成+运算符的工作\源.cpp(25): error C2783: "X<T> X(void)": 无法推导 "T" 的 模板 参数
+C:\Users\20613\Desktop\41.06.02 令requires表达式完成+运算符的工作\源.cpp(19): message : 参见“X”的声明
+C:\Users\20613\Desktop\41.06.02 令requires表达式完成+运算符的工作\源.cpp(25): error C2780: “X<T> X(X<T>)”: 应输入 1 个参数，却提供了 0 个
+C:\Users\20613\Desktop\41.06.02 令requires表达式完成+运算符的工作\源.cpp(19): message : 参见“X”的声明

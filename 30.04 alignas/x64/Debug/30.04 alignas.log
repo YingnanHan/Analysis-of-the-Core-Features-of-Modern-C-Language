@@ -1,0 +1,8 @@
+﻿  源.cpp
+C:\Users\20613\Desktop\现代C++语言核心特性解析\30.04 alignas\源.cpp(50,1): error C2061: 语法错误: 标识符“x”
+C:\Users\20613\Desktop\现代C++语言核心特性解析\30.04 alignas\源.cpp(51,2): error C2061: 语法错误: 标识符“x1”
+C:\Users\20613\Desktop\现代C++语言核心特性解析\30.04 alignas\源.cpp(52,2): error C2061: 语法错误: 标识符“x2”
+C:\Users\20613\Desktop\现代C++语言核心特性解析\30.04 alignas\源.cpp(53,2): error C2061: 语法错误: 标识符“x3”
+C:\Users\20613\Desktop\现代C++语言核心特性解析\30.04 alignas\源.cpp(54,2): error C2061: 语法错误: 标识符“x4”
+C:\Users\20613\Desktop\现代C++语言核心特性解析\30.04 alignas\源.cpp(55,2): error C2061: 语法错误: 标识符“x5”
+C:\Users\20613\Desktop\现代C++语言核心特性解析\30.04 alignas\源.cpp(56,2): error C2061: 语法错误: 标识符“x6”

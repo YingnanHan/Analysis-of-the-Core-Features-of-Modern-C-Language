@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "37.02 允许局部和匿名类型作为模板实参", "37.02 允许局部和匿名类型作为模板实参.vcxproj", "{C17934E2-2F51-4516-8942-D468A4DC94E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C17934E2-2F51-4516-8942-D468A4DC94E3}.Debug|x64.ActiveCfg = Debug|x64
+		{C17934E2-2F51-4516-8942-D468A4DC94E3}.Debug|x64.Build.0 = Debug|x64
+		{C17934E2-2F51-4516-8942-D468A4DC94E3}.Debug|x86.ActiveCfg = Debug|Win32
+		{C17934E2-2F51-4516-8942-D468A4DC94E3}.Debug|x86.Build.0 = Debug|Win32
+		{C17934E2-2F51-4516-8942-D468A4DC94E3}.Release|x64.ActiveCfg = Release|x64
+		{C17934E2-2F51-4516-8942-D468A4DC94E3}.Release|x64.Build.0 = Release|x64
+		{C17934E2-2F51-4516-8942-D468A4DC94E3}.Release|x86.ActiveCfg = Release|Win32
+		{C17934E2-2F51-4516-8942-D468A4DC94E3}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C5CBC9B4-E3AD-46C2-BCA6-33D60347B7A8}
+	EndGlobalSection
+EndGlobal

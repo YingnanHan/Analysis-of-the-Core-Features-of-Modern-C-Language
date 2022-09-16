@@ -1,0 +1,5 @@
+﻿  源.cpp
+C:\Users\20613\Desktop\现代C++语言核心特性解析\31.05.05 nodiscard属性\源.cpp(19,5): warning C4834: 放弃具有 "nodiscard" 属性的函数的返回值
+C:\Users\20613\Desktop\现代C++语言核心特性解析\31.05.05 nodiscard属性\源.cpp(20,5): warning C4834: 放弃具有 "nodiscard" 属性的函数的返回值
+C:\Users\20613\Desktop\现代C++语言核心特性解析\31.05.05 nodiscard属性\源.cpp(18,4): warning C4101: “x”: 未引用的局部变量
+  31.05.05 nodiscard属性.vcxproj -> C:\Users\20613\Desktop\现代C++语言核心特性解析\31.05.05 nodiscard属性\x64\Debug\31.05.05 nodiscard属性.exe

@@ -1,0 +1,23 @@
+#include<iostream>
+#include<string>
+
+using namespace std;
+
+class MyStringWithIndex :public std::string
+{
+public: // 删除派生类的构造函数是为了使得MyStringWithIndex成为扩展聚合类型
+	int index_ = 0;
+};
+
+std::ostream& operator<<(std::ostream& os, const MyStringWithIndex& s)
+{
+	os << s.index_ << ":" << s.c_str();
+	return os;
+}
+
+int main()
+{
+	MyStringWithIndex s{ { "hello world!" }, 11 };
+	std::cout << s << std::endl;
+	return 0;
+}

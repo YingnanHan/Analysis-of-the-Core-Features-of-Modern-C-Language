@@ -1,0 +1,2 @@
+﻿  源.cpp
+C:\Users\20613\Desktop\现代C++语言核心特性解析\34.01.02 问题\源.cpp(6,35): error C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.

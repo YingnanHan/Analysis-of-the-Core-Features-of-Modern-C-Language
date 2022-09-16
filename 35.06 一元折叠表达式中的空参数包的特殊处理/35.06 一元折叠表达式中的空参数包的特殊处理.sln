@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "35.06 一元折叠表达式中的空参数包的特殊处理", "35.06 一元折叠表达式中的空参数包的特殊处理.vcxproj", "{4E8FAE80-72D4-4F54-9BD2-B5C160ACD7C2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E8FAE80-72D4-4F54-9BD2-B5C160ACD7C2}.Debug|x64.ActiveCfg = Debug|x64
+		{4E8FAE80-72D4-4F54-9BD2-B5C160ACD7C2}.Debug|x64.Build.0 = Debug|x64
+		{4E8FAE80-72D4-4F54-9BD2-B5C160ACD7C2}.Debug|x86.ActiveCfg = Debug|Win32
+		{4E8FAE80-72D4-4F54-9BD2-B5C160ACD7C2}.Debug|x86.Build.0 = Debug|Win32
+		{4E8FAE80-72D4-4F54-9BD2-B5C160ACD7C2}.Release|x64.ActiveCfg = Release|x64
+		{4E8FAE80-72D4-4F54-9BD2-B5C160ACD7C2}.Release|x64.Build.0 = Release|x64
+		{4E8FAE80-72D4-4F54-9BD2-B5C160ACD7C2}.Release|x86.ActiveCfg = Release|Win32
+		{4E8FAE80-72D4-4F54-9BD2-B5C160ACD7C2}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {27AC9076-76DF-4416-91F2-B772608E0A57}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,3 @@
+﻿  源.cpp
+C:\Users\20613\Desktop\现代C++语言核心特性解析\31.05.05 构造函数中的[[nodiscard]]\源.cpp(10,3): warning C4834: 放弃具有 "nodiscard" 属性的函数的返回值
+  31.05.05 构造函数中的[[nodiscard]].vcxproj -> C:\Users\20613\Desktop\现代C++语言核心特性解析\31.05.05 构造函数中的[[nodiscard]]\x64\Debug\31.05.05 构造函数中的[[nodiscard]].exe

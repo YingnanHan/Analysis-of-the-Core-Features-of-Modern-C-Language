@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "30.06 使用new分配指定对其字节长度的对象", "30.06 使用new分配指定对其字节长度的对象.vcxproj", "{9179421E-F26A-4643-8B99-96AC889DD8AC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9179421E-F26A-4643-8B99-96AC889DD8AC}.Debug|x64.ActiveCfg = Debug|x64
+		{9179421E-F26A-4643-8B99-96AC889DD8AC}.Debug|x64.Build.0 = Debug|x64
+		{9179421E-F26A-4643-8B99-96AC889DD8AC}.Debug|x86.ActiveCfg = Debug|Win32
+		{9179421E-F26A-4643-8B99-96AC889DD8AC}.Debug|x86.Build.0 = Debug|Win32
+		{9179421E-F26A-4643-8B99-96AC889DD8AC}.Release|x64.ActiveCfg = Release|x64
+		{9179421E-F26A-4643-8B99-96AC889DD8AC}.Release|x64.Build.0 = Release|x64
+		{9179421E-F26A-4643-8B99-96AC889DD8AC}.Release|x86.ActiveCfg = Release|Win32
+		{9179421E-F26A-4643-8B99-96AC889DD8AC}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {386FA73D-258F-4310-8B9D-1BB16437AA13}
+	EndGlobalSection
+EndGlobal

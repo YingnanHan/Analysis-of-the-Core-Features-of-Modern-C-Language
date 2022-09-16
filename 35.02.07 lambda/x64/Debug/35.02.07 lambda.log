@@ -1,0 +1,13 @@
+﻿  源.cpp
+C:\Users\20613\Desktop\35.02.07 lambda\源.cpp(10,2): error C2672: “for_each”: 未找到匹配的重载函数
+D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\algorithm(228,18): message : 可能是“_Fn std::for_each(_InIt,_InIt,_Fn)”
+C:\Users\20613\Desktop\35.02.07 lambda\源.cpp(10,2): message : “_Fn std::for_each(_InIt,_InIt,_Fn)”: 模板 参数“_InIt”不明确
+D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\algorithm(228): message : 参见“std::for_each”的声明
+C:\Users\20613\Desktop\35.02.07 lambda\源.cpp(8,1): message : 可能是“const double *”
+C:\Users\20613\Desktop\35.02.07 lambda\源.cpp(8,1): message : 或    “const int *”
+C:\Users\20613\Desktop\35.02.07 lambda\源.cpp(10,2): message : "_Fn std::for_each(_InIt,_InIt,_Fn)": 无法从 "const double *" 推导出 "_InIt" 的 模板 参数
+D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\algorithm(228): message : 参见“std::for_each”的声明
+C:\Users\20613\Desktop\35.02.07 lambda\源.cpp(18): message : 查看对正在编译的函数 模板 实例化“void foo<const int*,const double*>(const int *,const double *)”的引用
+C:\Users\20613\Desktop\35.02.07 lambda\源.cpp(18): message : 在编译 类 模板 成员函数“bar<int,double>::bar(int,double)”时
+C:\Users\20613\Desktop\35.02.07 lambda\源.cpp(30): message : 查看对正在编译的函数 模板 实例化“bar<int,double>::bar(int,double)”的引用
+C:\Users\20613\Desktop\35.02.07 lambda\源.cpp(30): message : 查看对正在编译的 类 模板 实例化“bar<int,double>”的引用

@@ -1,0 +1,9 @@
+﻿  源.cpp
+C:\Users\20613\Desktop\40.02.01 替换失败\源.cpp(8,6): error C2280: “bar::bar(const bar &)”: 尝试引用已删除的函数
+C:\Users\20613\Desktop\40.02.01 替换失败\源.cpp(28): message : 编译器已在此处生成“bar::bar”
+C:\Users\20613\Desktop\40.02.01 替换失败\源.cpp(28,1): message : “bar::bar(const bar &)”: 由于“bar”具有用户定义的 移动构造函数，因此已隐式删除函数
+C:\Users\20613\Desktop\40.02.01 替换失败\源.cpp(36): message : 查看对正在编译的函数 模板 实例化“T foo<bar>(T &)”的引用
+          with
+          [
+              T=bar
+          ]

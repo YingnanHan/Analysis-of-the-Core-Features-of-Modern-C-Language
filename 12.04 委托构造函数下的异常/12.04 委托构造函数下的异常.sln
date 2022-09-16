@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "12.04 委托构造函数下的异常", "12.04 委托构造函数下的异常.vcxproj", "{5D9C0CAF-7AA2-487C-A96D-81645DBD9FAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D9C0CAF-7AA2-487C-A96D-81645DBD9FAC}.Debug|x64.ActiveCfg = Debug|x64
+		{5D9C0CAF-7AA2-487C-A96D-81645DBD9FAC}.Debug|x64.Build.0 = Debug|x64
+		{5D9C0CAF-7AA2-487C-A96D-81645DBD9FAC}.Debug|x86.ActiveCfg = Debug|Win32
+		{5D9C0CAF-7AA2-487C-A96D-81645DBD9FAC}.Debug|x86.Build.0 = Debug|Win32
+		{5D9C0CAF-7AA2-487C-A96D-81645DBD9FAC}.Release|x64.ActiveCfg = Release|x64
+		{5D9C0CAF-7AA2-487C-A96D-81645DBD9FAC}.Release|x64.Build.0 = Release|x64
+		{5D9C0CAF-7AA2-487C-A96D-81645DBD9FAC}.Release|x86.ActiveCfg = Release|Win32
+		{5D9C0CAF-7AA2-487C-A96D-81645DBD9FAC}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF7F12F8-88BB-41F1-95F4-64CB7E5077D7}
+	EndGlobalSection
+EndGlobal

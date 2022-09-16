@@ -1,0 +1,6 @@
+﻿  源.cpp
+C:\Users\20613\Desktop\42.03 friend声明模板形参\源.cpp(19,9): warning C4101: “ri”: 未引用的局部变量
+C:\Users\20613\Desktop\42.03 friend声明模板形参\源.cpp(20,10): warning C4101: “rv”: 未引用的局部变量
+C:\Users\20613\Desktop\42.03 friend声明模板形参\源.cpp(18,8): warning C4101: “rct”: 未引用的局部变量
+C:\Users\20613\Desktop\42.03 friend声明模板形参\源.cpp(17,7): warning C4101: “rc”: 未引用的局部变量
+  42.03 friend声明模板形参.vcxproj -> C:\Users\20613\Desktop\42.03 friend声明模板形参\x64\Debug\42.03 friend声明模板形参.exe

@@ -1,0 +1,17 @@
+﻿  源.cpp
+C:\Users\20613\Desktop\41.04 约束检查顺序\源.cpp(20,14): error C2672: “foo”: 未找到匹配的重载函数
+C:\Users\20613\Desktop\41.04 约束检查顺序\源.cpp(12,6): message : 可能是“void foo(_T0)”
+C:\Users\20613\Desktop\41.04 约束检查顺序\源.cpp(20,2): message : “foo”: 未满足关联约束
+C:\Users\20613\Desktop\41.04 约束检查顺序\源.cpp(12): message : 参见“foo”的声明
+C:\Users\20613\Desktop\41.04 约束检查顺序\源.cpp(21,20): error C2672: “foo”: 未找到匹配的重载函数
+C:\Users\20613\Desktop\41.04 约束检查顺序\源.cpp(12,6): message : 可能是“void foo(_T0)”
+C:\Users\20613\Desktop\41.04 约束检查顺序\源.cpp(21,2): message : “foo”: 未满足关联约束
+C:\Users\20613\Desktop\41.04 约束检查顺序\源.cpp(12): message : 参见“foo”的声明
+C:\Users\20613\Desktop\41.04 约束检查顺序\源.cpp(22,21): error C2672: “foo”: 未找到匹配的重载函数
+C:\Users\20613\Desktop\41.04 约束检查顺序\源.cpp(12,6): message : 可能是“void foo(_T0)”
+C:\Users\20613\Desktop\41.04 约束检查顺序\源.cpp(22,2): message : “foo”: 未满足关联约束
+C:\Users\20613\Desktop\41.04 约束检查顺序\源.cpp(12): message : 参见“foo”的声明
+C:\Users\20613\Desktop\41.04 约束检查顺序\源.cpp(23,19): error C2672: “foo”: 未找到匹配的重载函数
+C:\Users\20613\Desktop\41.04 约束检查顺序\源.cpp(12,6): message : 可能是“void foo(_T0)”
+C:\Users\20613\Desktop\41.04 约束检查顺序\源.cpp(23,2): message : “foo”: 未满足关联约束
+C:\Users\20613\Desktop\41.04 约束检查顺序\源.cpp(12): message : 参见“foo”的声明

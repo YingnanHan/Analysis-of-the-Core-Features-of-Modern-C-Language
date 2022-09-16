@@ -1,0 +1,4 @@
+﻿  源.cpp
+C:\Users\20613\Desktop\现代C++语言核心特性解析\31.05.03 deprecated属性\源.cpp(5,2): error C4996: 'X': 被声明为已否决
+C:\Users\20613\Desktop\现代C++语言核心特性解析\31.05.03 deprecated属性\源.cpp(6,2): error C4996: 'foo': foo was deprecated , use bar instead
+C:\Users\20613\Desktop\现代C++语言核心特性解析\31.05.03 deprecated属性\源.cpp(5,4): warning C4101: “x”: 未引用的局部变量

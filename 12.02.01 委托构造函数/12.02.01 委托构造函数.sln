@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "12.02.01 委托构造函数", "12.02.01 委托构造函数.vcxproj", "{F256065E-636B-4247-9465-DEECCBE32781}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F256065E-636B-4247-9465-DEECCBE32781}.Debug|x64.ActiveCfg = Debug|x64
+		{F256065E-636B-4247-9465-DEECCBE32781}.Debug|x64.Build.0 = Debug|x64
+		{F256065E-636B-4247-9465-DEECCBE32781}.Debug|x86.ActiveCfg = Debug|Win32
+		{F256065E-636B-4247-9465-DEECCBE32781}.Debug|x86.Build.0 = Debug|Win32
+		{F256065E-636B-4247-9465-DEECCBE32781}.Release|x64.ActiveCfg = Release|x64
+		{F256065E-636B-4247-9465-DEECCBE32781}.Release|x64.Build.0 = Release|x64
+		{F256065E-636B-4247-9465-DEECCBE32781}.Release|x86.ActiveCfg = Release|Win32
+		{F256065E-636B-4247-9465-DEECCBE32781}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D6F30DBA-7046-434B-A497-CA3F5CF281E6}
+	EndGlobalSection
+EndGlobal

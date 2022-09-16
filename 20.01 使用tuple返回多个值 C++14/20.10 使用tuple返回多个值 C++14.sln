@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "20.10 使用tuple返回多个值 C++14", "20.10 使用tuple返回多个值 C++14.vcxproj", "{1AC1A0E7-7F1C-40B8-BE83-D7D145D6E039}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1AC1A0E7-7F1C-40B8-BE83-D7D145D6E039}.Debug|x64.ActiveCfg = Debug|x64
+		{1AC1A0E7-7F1C-40B8-BE83-D7D145D6E039}.Debug|x64.Build.0 = Debug|x64
+		{1AC1A0E7-7F1C-40B8-BE83-D7D145D6E039}.Debug|x86.ActiveCfg = Debug|Win32
+		{1AC1A0E7-7F1C-40B8-BE83-D7D145D6E039}.Debug|x86.Build.0 = Debug|Win32
+		{1AC1A0E7-7F1C-40B8-BE83-D7D145D6E039}.Release|x64.ActiveCfg = Release|x64
+		{1AC1A0E7-7F1C-40B8-BE83-D7D145D6E039}.Release|x64.Build.0 = Release|x64
+		{1AC1A0E7-7F1C-40B8-BE83-D7D145D6E039}.Release|x86.ActiveCfg = Release|Win32
+		{1AC1A0E7-7F1C-40B8-BE83-D7D145D6E039}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E39C135-FDBD-43DD-B409-F07CF24D5A59}
+	EndGlobalSection
+EndGlobal

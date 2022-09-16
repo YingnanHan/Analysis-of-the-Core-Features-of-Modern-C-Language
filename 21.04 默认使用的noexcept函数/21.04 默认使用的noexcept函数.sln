@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "21.04 默认使用的noexcept函数", "21.04 默认使用的noexcept函数.vcxproj", "{A4F624F8-38E8-44E7-BD6A-38DCA67F1C52}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A4F624F8-38E8-44E7-BD6A-38DCA67F1C52}.Debug|x64.ActiveCfg = Debug|x64
+		{A4F624F8-38E8-44E7-BD6A-38DCA67F1C52}.Debug|x64.Build.0 = Debug|x64
+		{A4F624F8-38E8-44E7-BD6A-38DCA67F1C52}.Debug|x86.ActiveCfg = Debug|Win32
+		{A4F624F8-38E8-44E7-BD6A-38DCA67F1C52}.Debug|x86.Build.0 = Debug|Win32
+		{A4F624F8-38E8-44E7-BD6A-38DCA67F1C52}.Release|x64.ActiveCfg = Release|x64
+		{A4F624F8-38E8-44E7-BD6A-38DCA67F1C52}.Release|x64.Build.0 = Release|x64
+		{A4F624F8-38E8-44E7-BD6A-38DCA67F1C52}.Release|x86.ActiveCfg = Release|Win32
+		{A4F624F8-38E8-44E7-BD6A-38DCA67F1C52}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA6AF8E2-98EF-42C4-85B8-2ADB28D01655}
+	EndGlobalSection
+EndGlobal

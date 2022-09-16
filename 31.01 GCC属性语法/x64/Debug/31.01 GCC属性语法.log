@@ -1,0 +1,30 @@
+﻿  源.cpp
+C:\Users\20613\Desktop\现代C++语言核心特性解析\31.01 GCC属性语法\源.cpp(5,15): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\20613\Desktop\现代C++语言核心特性解析\31.01 GCC属性语法\源.cpp(5,16): error C3861: “aligned”: 找不到标识符
+C:\Users\20613\Desktop\现代C++语言核心特性解析\31.01 GCC属性语法\源.cpp(6,7): error C2059: 语法错误:“<class-head>”
+C:\Users\20613\Desktop\现代C++语言核心特性解析\31.01 GCC属性语法\源.cpp(6,9): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+C:\Users\20613\Desktop\现代C++语言核心特性解析\31.01 GCC属性语法\源.cpp(6,9): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+C:\Users\20613\Desktop\现代C++语言核心特性解析\31.01 GCC属性语法\源.cpp(6,21): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\20613\Desktop\现代C++语言核心特性解析\31.01 GCC属性语法\源.cpp(8,29): error C2143: 语法错误: 缺少“)”(在“(”的前面)
+C:\Users\20613\Desktop\现代C++语言核心特性解析\31.01 GCC属性语法\源.cpp(8,22): error C2079: “aligned”使用未定义的 class“__attribute__”
+C:\Users\20613\Desktop\现代C++语言核心特性解析\31.01 GCC属性语法\源.cpp(8,33): error C2059: 语法错误:“)”
+C:\Users\20613\Desktop\现代C++语言核心特性解析\31.01 GCC属性语法\源.cpp(8,34): error C2059: 语法错误:“)”
+C:\Users\20613\Desktop\现代C++语言核心特性解析\31.01 GCC属性语法\源.cpp(8,36): error C2146: 语法错误: 缺少“;”(在标识符“X1”的前面)
+C:\Users\20613\Desktop\现代C++语言核心特性解析\31.01 GCC属性语法\源.cpp(9,1): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\20613\Desktop\现代C++语言核心特性解析\31.01 GCC属性语法\源.cpp(10,2): error C2062: 意外的类型“int”
+C:\Users\20613\Desktop\现代C++语言核心特性解析\31.01 GCC属性语法\源.cpp(11,1): error C2059: 语法错误:“}”
+C:\Users\20613\Desktop\现代C++语言核心特性解析\31.01 GCC属性语法\源.cpp(11,1): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+C:\Users\20613\Desktop\现代C++语言核心特性解析\31.01 GCC属性语法\源.cpp(16,3): error C2371: “__attribute__”: 重定义；不同的基类型
+C:\Users\20613\Desktop\现代C++语言核心特性解析\31.01 GCC属性语法\源.cpp(5): message : 参见“__attribute__”的声明
+C:\Users\20613\Desktop\现代C++语言核心特性解析\31.01 GCC属性语法\源.cpp(16,18): error C2064: 项不会计算为接受 1 个参数的函数
+C:\Users\20613\Desktop\现代C++语言核心特性解析\31.01 GCC属性语法\源.cpp(16,32): error C2146: 语法错误: 缺少“;”(在标识符“a2”的前面)
+C:\Users\20613\Desktop\现代C++语言核心特性解析\31.01 GCC属性语法\源.cpp(16,34): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\20613\Desktop\现代C++语言核心特性解析\31.01 GCC属性语法\源.cpp(21,6): error C2146: 语法错误: 缺少“;”(在标识符“__attribute__”的前面)
+C:\Users\20613\Desktop\现代C++语言核心特性解析\31.01 GCC属性语法\源.cpp(21,20): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\20613\Desktop\现代C++语言核心特性解析\31.01 GCC属性语法\源.cpp(21,6): error C2374: “__attribute__”: 重定义；多次初始化
+C:\Users\20613\Desktop\现代C++语言核心特性解析\31.01 GCC属性语法\源.cpp(5): message : 参见“__attribute__”的声明
+C:\Users\20613\Desktop\现代C++语言核心特性解析\31.01 GCC属性语法\源.cpp(21,21): error C2064: 项不会计算为接受 1 个参数的函数
+C:\Users\20613\Desktop\现代C++语言核心特性解析\31.01 GCC属性语法\源.cpp(26,1): error C2061: 语法错误: 标识符“X”
+C:\Users\20613\Desktop\现代C++语言核心特性解析\31.01 GCC属性语法\源.cpp(27,2): error C2061: 语法错误: 标识符“X1”
+C:\Users\20613\Desktop\现代C++语言核心特性解析\31.01 GCC属性语法\源.cpp(28,1): error C2061: 语法错误: 标识符“a2”
+C:\Users\20613\Desktop\现代C++语言核心特性解析\31.01 GCC属性语法\源.cpp(29,2): error C2061: 语法错误: 标识符“a3”

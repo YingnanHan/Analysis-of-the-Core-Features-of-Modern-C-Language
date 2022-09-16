@@ -1,0 +1,1 @@
+C:\Users\20613\Desktop\现代C++语言核心特性解析\34.07 在delete运算符中析构对象\x64\Debug\34.07 在delete运算符中析构对象.exe

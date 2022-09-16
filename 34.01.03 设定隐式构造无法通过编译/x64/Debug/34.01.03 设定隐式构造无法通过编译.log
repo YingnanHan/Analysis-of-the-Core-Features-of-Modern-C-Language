@@ -1,0 +1,5 @@
+﻿  源.cpp
+C:\Users\20613\Desktop\现代C++语言核心特性解析\34.01.03 设定隐式构造无法通过编译\源.cpp(23,13): error C2664: “void PrintStr(const SomeString &)”: 无法将参数 1 从“int”转换为“const SomeString &”
+C:\Users\20613\Desktop\现代C++语言核心特性解析\34.01.03 设定隐式构造无法通过编译\源.cpp(23,13): message : 原因如下: 无法从“int”转换为“const SomeString”
+C:\Users\20613\Desktop\现代C++语言核心特性解析\34.01.03 设定隐式构造无法通过编译\源.cpp(23,13): message : class“SomeString”的构造函数声明为“explicit”
+C:\Users\20613\Desktop\现代C++语言核心特性解析\34.01.03 设定隐式构造无法通过编译\源.cpp(15,6): message : 参见“PrintStr”的声明

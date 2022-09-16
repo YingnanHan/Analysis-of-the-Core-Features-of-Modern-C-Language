@@ -1,0 +1,4 @@
+﻿  源.cpp
+C:\Users\20613\Desktop\37.03.01 允许函数模板的默认模板参数\源.cpp(4,4): warning C4101: “t”: 未引用的局部变量
+C:\Users\20613\Desktop\37.03.01 允许函数模板的默认模板参数\源.cpp(9): message : 查看对正在编译的函数 模板 实例化“void foo<double>(void)”的引用
+  37.03.01 允许函数模板的默认模板参数.vcxproj -> C:\Users\20613\Desktop\37.03.01 允许函数模板的默认模板参数\x64\Debug\37.03.01 允许函数模板的默认模板参数.exe

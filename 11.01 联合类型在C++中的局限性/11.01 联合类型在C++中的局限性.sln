@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "11.01 联合类型在C++中的局限性", "11.01 联合类型在C++中的局限性.vcxproj", "{4F42FE6B-EE1C-4CB7-8A43-8040A4CEB115}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F42FE6B-EE1C-4CB7-8A43-8040A4CEB115}.Debug|x64.ActiveCfg = Debug|x64
+		{4F42FE6B-EE1C-4CB7-8A43-8040A4CEB115}.Debug|x64.Build.0 = Debug|x64
+		{4F42FE6B-EE1C-4CB7-8A43-8040A4CEB115}.Debug|x86.ActiveCfg = Debug|Win32
+		{4F42FE6B-EE1C-4CB7-8A43-8040A4CEB115}.Debug|x86.Build.0 = Debug|Win32
+		{4F42FE6B-EE1C-4CB7-8A43-8040A4CEB115}.Release|x64.ActiveCfg = Release|x64
+		{4F42FE6B-EE1C-4CB7-8A43-8040A4CEB115}.Release|x64.Build.0 = Release|x64
+		{4F42FE6B-EE1C-4CB7-8A43-8040A4CEB115}.Release|x86.ActiveCfg = Release|Win32
+		{4F42FE6B-EE1C-4CB7-8A43-8040A4CEB115}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98A5C419-CCC4-43C5-BE71-FBEE7DD27433}
+	EndGlobalSection
+EndGlobal

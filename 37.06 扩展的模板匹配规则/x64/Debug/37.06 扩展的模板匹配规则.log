@@ -1,0 +1,4 @@
+﻿  源.cpp
+C:\Users\20613\Desktop\37.06 扩展的模板匹配规则\源.cpp(4,7): warning C4101: “n”: 未引用的局部变量
+C:\Users\20613\Desktop\37.06 扩展的模板匹配规则\源.cpp(10): message : 查看对正在编译的函数 模板 实例化“void foo<bar,double>(void)”的引用
+  37.06 扩展的模板匹配规则.vcxproj -> C:\Users\20613\Desktop\37.06 扩展的模板匹配规则\x64\Debug\37.06 扩展的模板匹配规则.exe

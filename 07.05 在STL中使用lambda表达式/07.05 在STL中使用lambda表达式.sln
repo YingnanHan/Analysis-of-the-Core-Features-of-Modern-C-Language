@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32516.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "07.05 在STL中使用lambda表达式", "07.05 在STL中使用lambda表达式.vcxproj", "{A117C9B7-FEEA-4584-AE3B-F28DC7FF0B20}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A117C9B7-FEEA-4584-AE3B-F28DC7FF0B20}.Debug|x64.ActiveCfg = Debug|x64
+		{A117C9B7-FEEA-4584-AE3B-F28DC7FF0B20}.Debug|x64.Build.0 = Debug|x64
+		{A117C9B7-FEEA-4584-AE3B-F28DC7FF0B20}.Debug|x86.ActiveCfg = Debug|Win32
+		{A117C9B7-FEEA-4584-AE3B-F28DC7FF0B20}.Debug|x86.Build.0 = Debug|Win32
+		{A117C9B7-FEEA-4584-AE3B-F28DC7FF0B20}.Release|x64.ActiveCfg = Release|x64
+		{A117C9B7-FEEA-4584-AE3B-F28DC7FF0B20}.Release|x64.Build.0 = Release|x64
+		{A117C9B7-FEEA-4584-AE3B-F28DC7FF0B20}.Release|x86.ActiveCfg = Release|Win32
+		{A117C9B7-FEEA-4584-AE3B-F28DC7FF0B20}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {306DEE15-BFEC-4FD6-8F0F-12E83C91B7C0}
+	EndGlobalSection
+EndGlobal

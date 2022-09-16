@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "34.06.01 允许数组转化为位置范围的数组", "34.06.01 允许数组转化为位置范围的数组.vcxproj", "{32D22773-9743-448F-8849-A8F76FB592EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32D22773-9743-448F-8849-A8F76FB592EA}.Debug|x64.ActiveCfg = Debug|x64
+		{32D22773-9743-448F-8849-A8F76FB592EA}.Debug|x64.Build.0 = Debug|x64
+		{32D22773-9743-448F-8849-A8F76FB592EA}.Debug|x86.ActiveCfg = Debug|Win32
+		{32D22773-9743-448F-8849-A8F76FB592EA}.Debug|x86.Build.0 = Debug|Win32
+		{32D22773-9743-448F-8849-A8F76FB592EA}.Release|x64.ActiveCfg = Release|x64
+		{32D22773-9743-448F-8849-A8F76FB592EA}.Release|x64.Build.0 = Release|x64
+		{32D22773-9743-448F-8849-A8F76FB592EA}.Release|x86.ActiveCfg = Release|Win32
+		{32D22773-9743-448F-8849-A8F76FB592EA}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1FC3841F-1408-4C61-95C4-F90747255AD8}
+	EndGlobalSection
+EndGlobal

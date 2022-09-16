@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32516.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "07.03.01 lambda表达式实现的原理", "07.03.01 lambda表达式实现的原理.vcxproj", "{4C787A08-84A7-4A81-9079-DD2FE715D023}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C787A08-84A7-4A81-9079-DD2FE715D023}.Debug|x64.ActiveCfg = Debug|x64
+		{4C787A08-84A7-4A81-9079-DD2FE715D023}.Debug|x64.Build.0 = Debug|x64
+		{4C787A08-84A7-4A81-9079-DD2FE715D023}.Debug|x86.ActiveCfg = Debug|Win32
+		{4C787A08-84A7-4A81-9079-DD2FE715D023}.Debug|x86.Build.0 = Debug|Win32
+		{4C787A08-84A7-4A81-9079-DD2FE715D023}.Release|x64.ActiveCfg = Release|x64
+		{4C787A08-84A7-4A81-9079-DD2FE715D023}.Release|x64.Build.0 = Release|x64
+		{4C787A08-84A7-4A81-9079-DD2FE715D023}.Release|x86.ActiveCfg = Release|Win32
+		{4C787A08-84A7-4A81-9079-DD2FE715D023}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D2957441-72E6-40E9-AF25-5B3E53759891}
+	EndGlobalSection
+EndGlobal

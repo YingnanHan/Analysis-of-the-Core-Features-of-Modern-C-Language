@@ -1,0 +1,5 @@
+﻿  源.cpp
+C:\Users\20613\Desktop\现代C++语言核心特性解析\20.03.01 绑定到结构体和类对象\源.cpp(51,18): error C3643: "BindTest3": 无法分解 "BindTest3" 和 "BindBase3" 中具有非静态数据成员的类型
+C:\Users\20613\Desktop\现代C++语言核心特性解析\20.03.01 绑定到结构体和类对象\源.cpp(38,9): message : 参见“BindTest3::b”的声明
+C:\Users\20613\Desktop\现代C++语言核心特性解析\20.03.01 绑定到结构体和类对象\源.cpp(32,6): message : 参见“BindBase3::a”的声明
+C:\Users\20613\Desktop\现代C++语言核心特性解析\20.03.01 绑定到结构体和类对象\源.cpp(51,8): error C3448: 标识符的数目必须与结构化绑定声明中数组元素或成员的数目相匹配

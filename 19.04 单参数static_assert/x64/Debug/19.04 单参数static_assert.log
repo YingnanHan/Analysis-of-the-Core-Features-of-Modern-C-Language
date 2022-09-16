@@ -1,0 +1,4 @@
+﻿  源.cpp
+C:\Users\20613\Desktop\现代C++语言核心特性解析\19.04 单参数static_assert\源.cpp(30,7): warning C4101: “y”: 未引用的局部变量
+C:\Users\20613\Desktop\现代C++语言核心特性解析\19.04 单参数static_assert\源.cpp(28,7): warning C4101: “X”: 未引用的局部变量
+  19.04 单参数static_assert.vcxproj -> C:\Users\20613\Desktop\现代C++语言核心特性解析\19.04 单参数static_assert\x64\Debug\19.04 单参数static_assert.exe

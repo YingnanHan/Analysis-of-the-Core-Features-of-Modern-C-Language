@@ -1,0 +1,3 @@
+﻿  源.cpp
+C:\Users\20613\Desktop\36.02\源.cpp(5,7): warning C4101: “ba”: 未引用的局部变量
+  36.02.vcxproj -> C:\Users\20613\Desktop\36.02\x64\Debug\36.02.exe

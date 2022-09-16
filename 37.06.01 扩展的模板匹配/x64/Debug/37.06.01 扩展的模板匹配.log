@@ -1,0 +1,5 @@
+﻿  源.cpp
+C:\Users\20613\Desktop\37.06.01 扩展的模板匹配\源.cpp(1,44): error C3533: 参数不能为包含“auto”的类型
+C:\Users\20613\Desktop\37.06.01 扩展的模板匹配\源.cpp(1,21): message : 非类型模板参数中的 "auto" 至少需要 "/std:c++17"
+C:\Users\20613\Desktop\37.06.01 扩展的模板匹配\源.cpp(5,17): error C3533: 参数不能为包含“auto”的类型
+C:\Users\20613\Desktop\37.06.01 扩展的模板匹配\源.cpp(5,11): message : 非类型模板参数中的 "auto" 至少需要 "/std:c++17"
